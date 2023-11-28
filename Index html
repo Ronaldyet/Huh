@@ -1,0 +1,28 @@
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your GitHub Pages Site</title>
+</head>
+<body>
+
+    <header>
+        <h1>Welcome to My GitHub Pages Site</h1>
+    </header>
+
+    <section>
+        <p>This is a simple example page.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Your Name</p>
+    </footer>
+
+</body>
+</html>
+```
+
+Replace "Your GitHub Pages Site" with your desired title, and customize the content within the `<section>` as needed. You can add more sections, styling, or scripts based on your project requirements. Save this code in a file named `index.html` at the root of your GitHub repository
