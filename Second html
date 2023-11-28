@@ -1,7 +1,4 @@
-Certainly! To create an HTML file for a second page on a GitHub website, follow these steps:
 
-1. Open your code editor and create a new file named `index.html`.
-2. Add the basic HTML structure:
 
 ```html
 <!DOCTYPE html>
@@ -9,7 +6,7 @@ Certainly! To create an HTML file for a second page on a GitHub website, follow 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Second Page</title>
+    <title>Your Second Page</about>
 </head>
 <body>
 
@@ -19,14 +16,5 @@ Certainly! To create an HTML file for a second page on a GitHub website, follow 
 </html>
 ```
 
-3. Customize the content inside the `<body>` tag based on what you want to display on the second page.
 
-4. Save the file.
 
-5. Upload the `index.html` file to the desired location in your GitHub repository.
-
-6. Ensure that your repository is configured to serve GitHub Pages. You can set this up in the repository settings under the "Pages" section.
-
-After these steps, your second page should be accessible on your GitHub Pages site using the URL `https://username.github.io/repository-name/` (replace "username" with your GitHub username and "repository-name" with the name of your repository).
-
-Remember to commit and push your changes to GitHub after creating the new HTML file.
